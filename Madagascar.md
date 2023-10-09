@@ -1,1 +1,1 @@
-![Ceci devrait être madagascar](./Madagascar-1.jpg)
+![Ceci devrait être madagascar](./MADAGASCAR.jpg)

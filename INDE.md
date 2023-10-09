@@ -1,2 +1,2 @@
-![ITALIA!!!!!! BONISSIMOU](./ITALY.jpg)
+![INDE](./INDE.jpg)
 [Aller à Madagascar](https://github.com/WildGhost21/AR1/blob/main/Madagascar.md)
