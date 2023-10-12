@@ -2,5 +2,4 @@ Le film Babylon de 2023 est un film américain d'époque écrit et réalisé par
 Le film est une fresque ambitieuse qui explore les thèmes de la célébrité, de l'ambition et du changement. Il dépeint Hollywood comme un endroit glamour et dangereux, où les rêves peuvent se réaliser, mais où les illusions peuvent aussi être cruelles.
 
 ![DEPART](./BABYLON.jpg)
-[Aller à Madagascar](https://github.com/WildGhost21/AR1/blob/main/Madagascar.md)
-[Aller à Clermont-Ferrand](https://github.com/WildGhost21/AR1/blob/main/Clermont_Ferrand.md)
+[Aller à Sidi_Amar](https://github.com/WildGhost21/AR1/blob/main/Sidi%20Amar.md)
