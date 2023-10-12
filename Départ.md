@@ -4,5 +4,3 @@ Le film est une fresque ambitieuse qui explore les thèmes de la célébrité, d
 ![DEPART](./BABYLON.jpg)
 [Aller à Madagascar](https://github.com/WildGhost21/AR1/blob/main/Madagascar.md)
 [Aller à Clermont-Ferrand](https://github.com/WildGhost21/AR1/blob/main/Clermont_Ferrand.md)
-
-#AHMED_MESSAOUD_WALID
