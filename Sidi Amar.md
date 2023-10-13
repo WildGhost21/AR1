@@ -1,4 +1,4 @@
-![siddi amar image](![Oran image](https://www.voyageursdumonde.fr/vdm/imgProduits/DZA/614406.ori.jpg))
+![siddi amar image](https://borgenproject.org/wp-content/uploads/10-facts-about-slums-in-Brazil.jpg)
 
 Siddi Amar est un endroit dangereux à Annaba en Algérie. Il faut partir rapidement d'ici avant de vous faire agresser !!!
 
